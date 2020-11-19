@@ -4,8 +4,8 @@
 
 ##### Desktop
 
-![Desktop](desktop.png)
+![Desktop](Tela-login/desktop.png)
 
 ##### Mobile
 
-![Mobile](mobile.png)
+![Mobile](Tela-login/mobile.png)
