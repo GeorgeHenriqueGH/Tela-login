@@ -1,0 +1,21 @@
+// Mobile
+@media(min-width: 320px) and (max-width: 768px) {
+    div.hero-image {
+        flex-direction: column;
+        justify-content: center;
+        div.login {
+            width: 100%;
+        }
+    }
+}
+
+/*@media(max-width: 2560px)  {
+    nav.sign-in {
+        h5 {font-size: 15pt;}
+        a.registration {font-size: 45pt;}
+    }
+    h1 {
+        margin-right: 85%;
+        font-size: 45pt;
+    }
+}*/
